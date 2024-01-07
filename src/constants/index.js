@@ -183,7 +183,7 @@ export const socialLinks = [
   {
     name: "Contact",
     iconUrl: contact,
-    link: "/contact",
+    link: "https://profile-work-site.netlify.app/#contact",
   },
   {
     name: "GitHub",
